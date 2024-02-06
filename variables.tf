@@ -1,7 +1,7 @@
 variable "resource_group_location" {
   type        = string
   description = "Location for all resources."
-  default     = "Central India"
+  default     = "Central US"
 }
 
 variable "resource_group_name_prefix" {
